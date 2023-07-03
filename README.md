@@ -50,7 +50,7 @@
  <h3>Contribute to this project to improve this. Lot's of new features can be implemented in this.</h3>
  <i> I have just created to know how the things work in a chat application and how i can create one for myself. This is not a end user version of the application. This is just for the developers.</i>
  
- <h3>Developer- Mithileh Yadav</h3>
+ <h3>Developer- Mithilesh Yadav</h3>
  
   
 
